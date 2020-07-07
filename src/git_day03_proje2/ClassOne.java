@@ -6,6 +6,6 @@ public class ClassOne {
 		
 		System.out.println("ilk commit local masterdan");
 		System.out.println("ilk commit local masterdan");
-		
+		System.out.println("ikinci commit local masterden");
 	}
 }
